@@ -15,3 +15,6 @@ Submission details:
 - Create pull request
 
 Good luck 🚀 and happy coding! 🧑‍💻
+
+<h3>Output</h3>
+<img src="Task3%20(2).gif" width="300"/>
